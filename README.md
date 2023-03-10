@@ -24,8 +24,8 @@
             
                 <tr>
                     <td> CDC </td>
-                    <td>   70
-                        <td>E
+                    <td>   60
+                        <td>D
                     </td>
                     <td> CAAFIMAAD
                     </td>
