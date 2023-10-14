@@ -41,8 +41,8 @@
                
                 <tr>
                         <td>PHYSIOLOGY </td>
-                        <td>Lama hayo</td>
-                        <td> Z
+                        <td>80</td>
+                        <td> B
                         <td> CAAFIMAAD
                         </td>
                     </tr>
