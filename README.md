@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="table.css"/>
         <body>  
             <h1> Salman Abdullahi Ali</h1>
-            <h2> ID: 0010</h2>
+            <h2> ID: 002</h2>
             <table border="25">
                 <tr>
                     <th>Maadada </th>
