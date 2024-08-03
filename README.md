@@ -56,8 +56,8 @@
                     
                     <tr>
                             <td> NUTRITION</td>
-                            <td>Lama Hayo</td>
-                            <td> Z
+                            <td> 90 </td>
+                            <td> A
                             <td> CAAFIMAAD
                             </td>
                         </tr>
