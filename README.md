@@ -48,8 +48,8 @@
                     </tr>
                     <tr>
                         <td> PHARMACOLOGY</td>
-                        <td>Lama Hayo</td>
-                        <td> Z
+                        <td>88</td>
+                        <td> B+
                         <td> CAAFIMAAD
                         </td>
                     </tr>
